@@ -1,0 +1,8 @@
+{
+  "name": "sesion_1",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
