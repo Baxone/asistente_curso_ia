@@ -9,6 +9,11 @@ const calcularMedia = (numeros: number[]): number => {
 console.log(calcularMedia([1, 2, 3, 4, 5]));
 
 // creame un funcion para validar si numero es par o impar, quiero devuelva un booleano
+/**
+ * Comprueba si un número es par.
+ * @param numero - Número a validar.
+ * @returns true si el número es par, false si es impar.
+ */
 const esPar = (numero: number): boolean => {
     return numero % 2 === 0;
 }
@@ -17,9 +22,15 @@ const esPar = (numero: number): boolean => {
 // TAB
 
 //moment.js es una libreria para manejar fechas y horas, creame una funcion que me devuelva la fecha y hora actual
+/**
+ * Obtiene la fecha y hora actual formateada.
+ * @returns Fecha y hora en formato 'YYYY-MM-DD HH:mm:ss'.
+ */
 const fechaHoraActual = (): string => {
     return moment().format('YYYY-MM-DD HH:mm:ss');
 }
 
 console.log(fechaHoraActual());
+
+
 

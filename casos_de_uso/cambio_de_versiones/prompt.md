@@ -1,0 +1,1 @@
+dentro de @casos_de_uso/cambio_de_versiones/  existe un componente realizado en v15 y quiero migrarlo a v21 quiero te bases en la documentacion oficial actual que esta en @Angular y tambien revises la siguiente documentacion https://angular.dev/overview 

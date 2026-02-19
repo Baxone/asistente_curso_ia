@@ -1,0 +1,9 @@
+<ul class="user-list">
+  @for (user of users(); track user.id) {
+  <li class="user-item">
+    <span class="user-id">ID: {{ user.id }}</span>
+    <span class="user-name">{{ user.name }}</span>
+    <span class="user-age">{{ user.age }} años</span>
+  </li>
+  }
+</ul>
