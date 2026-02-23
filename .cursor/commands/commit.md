@@ -15,6 +15,7 @@ Analice @GIT diff y genere un mensaje de commit en el repositorio.
     - Usar imperativo: add, remove, change en lugar de added, removed, changed.
     - No usar signos de puntuación en la primera linea.
     - Usar siempre comillas simples para los mensajes.
+    - los mensajes deben ser en español.
 
 ## Restricciones:
     - No me preguntes para ejecutar esta acción por terminal.

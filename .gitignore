@@ -1,0 +1,5 @@
+# ignorar las carpetas mas comunes en proyectos js y C#
+node_modules/
+.DS_Store
+.idea/
+.git/

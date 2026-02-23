@@ -1,0 +1,13 @@
+{
+  "name": "creacion_test_unitarios",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.12",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.2"
+  }
+}
