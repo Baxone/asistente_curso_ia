@@ -1,0 +1,19 @@
+---
+alwaysApply: true
+description: "Define el stack tecnológico del proyecto: React 19, Zustand, Bootstrap 5, React Query y Jest"
+---
+
+# Stack Tecnológico
+
+- **Framework**: React 19
+- **Gestión de estado**: Zustand
+- **Estilos**: Bootstrap 5
+- **Peticiones fetch**: React Query (última versión, actualmente v5)
+- **Testing**: Jest
+
+Usar solo esta tecnología y no sugerir otras.
+
+# Restricciones
+
+- No preguntar para ejecutar acciones por terminal.
+- Instalar las dependencias necesarias para ejecutar el proyecto.

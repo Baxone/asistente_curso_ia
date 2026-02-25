@@ -1,0 +1,170 @@
+/* Variables del diseño Login */
+:root {
+  --login-dark-teal: #2a4d59;
+  --login-light-teal: #d9e2e5;
+  --login-form-bg: #ffffff;
+  --login-link-color: #4c7f87;
+}
+
+/* Layout de dos columnas */
+.login-page {
+  min-height: 100vh;
+}
+
+/* Columna izquierda - Hero */
+.login-hero {
+  background-color: var(--login-dark-teal);
+  min-height: 100vh;
+}
+
+.login-hero__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(42, 77, 89, 0.3) 0%,
+    rgba(42, 77, 89, 0.8) 100%
+  );
+  z-index: 1;
+}
+
+.login-hero__content {
+  z-index: 2;
+}
+
+.login-hero__image {
+  width: 100%;
+  max-width: 400px;
+  aspect-ratio: 3/4;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.08) 0%,
+    rgba(0, 0, 0, 0.2) 50%,
+    rgba(0, 0, 0, 0.4) 100%
+  );
+}
+
+/* Sustituir por imagen real: background-image: url('/ruta/imagen.jpg'); background-size: cover; */
+
+.login-hero__title .display-4 {
+  font-size: 2.5rem;
+  letter-spacing: 0.05em;
+}
+
+/* Columna derecha - Formulario */
+.login-form-section {
+  background-color: var(--login-light-teal);
+  min-height: 100vh;
+}
+
+.login-form-card {
+  background-color: var(--login-form-bg);
+  max-width: 420px;
+  width: 100%;
+}
+
+.login-form-card__title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.login-form-card__help {
+  font-size: 0.875rem;
+  color: #888;
+}
+
+.login-form-card__help:hover {
+  color: var(--login-link-color);
+}
+
+/* Inputs con borde inferior */
+.login-form__input {
+  border: none;
+  border-bottom: 2px solid #ddd;
+  border-radius: 0;
+  padding: 0.75rem 0;
+  font-size: 1rem;
+}
+
+.login-form__input:focus {
+  border-bottom-color: var(--login-dark-teal);
+  box-shadow: none;
+  outline: none;
+}
+
+.login-form__input::placeholder {
+  color: #aaa;
+}
+
+/* Campo password con icono de ayuda */
+.login-form .position-relative .login-form__input {
+  padding-right: 3rem;
+}
+
+.login-form__help-icon {
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  color: #666;
+  background: #f8f8f8;
+}
+
+.login-form__help-icon:hover {
+  background: #eee;
+  color: #333;
+}
+
+/* Botón Sign in */
+.login-form__submit {
+  background-color: var(--login-dark-teal);
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: none;
+}
+
+.login-form__submit:hover {
+  background-color: #1e3a42;
+  color: white;
+}
+
+/* Enlace Create account */
+.login-form-card__link {
+  color: var(--login-link-color);
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.login-form-card__link:hover {
+  color: var(--login-dark-teal);
+}
+
+/* Responsive: apilar columnas en móvil */
+@media (max-width: 991.98px) {
+  .login-page {
+    flex-direction: column;
+  }
+
+  .login-hero {
+    min-height: 40vh;
+  }
+
+  .login-hero__title .display-4 {
+    font-size: 1.75rem;
+  }
+
+  .login-form-section {
+    min-height: auto;
+    padding: 2rem 1rem;
+  }
+}
