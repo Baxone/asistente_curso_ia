@@ -1,0 +1,12 @@
+// Formateado con prettier el dia 2026-02-26 - package.json
+// Formateado con prettier el dia 2026-02-26 - package.json
+{
+  "name": "proyecto_cli_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bunx serve . -p 3000",
+    "dev": "bunx serve . -p 3000"
+  }
+}

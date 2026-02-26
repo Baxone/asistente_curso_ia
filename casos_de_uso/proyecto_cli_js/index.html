@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Panel Kanban - Tareas</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="min-h-screen bg-slate-100 p-6">
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold text-slate-800">Panel Kanban</h1>
+      <p class="mt-2 text-slate-600">Gestiona tus tareas con arrastrar y soltar</p>
+    </header>
+
+    <section class="mb-8">
+      <form id="task-form" class="flex gap-3 items-end">
+        <div class="flex-1">
+          <label for="task-title" class="block text-sm font-medium text-slate-700 mb-1"
+            >Nueva tarea</label
+          >
+          <input
+            type="text"
+            id="task-title"
+            name="title"
+            placeholder="Escribe el título de la tarea..."
+            class="w-full rounded-lg border border-slate-300 px-4 py-2 focus:border-blue-500 focus:ring-2 focus:ring-blue-200 outline-none transition"
+          />
+        </div>
+        <button
+          type="submit"
+          class="rounded-lg bg-blue-600 px-6 py-2 font-medium text-white hover:bg-blue-700 focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition"
+        >
+          Crear tarea
+        </button>
+      </form>
+    </section>
+
+    <main id="kanban-board" class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <!-- Las columnas se renderizan dinámicamente desde src/render.js -->
+    </main>
+
+    <script type="module" src="src/app.js"></script>
+  </body>
+</html>
