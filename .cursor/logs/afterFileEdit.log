@@ -1,0 +1,147 @@
+2026-02-26 16:15:51 - Hook iniciado (entrada)
+2026-02-26 16:15:51 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/.cursor/hooks/afterFileEdit.sh
+2026-02-26 16:15:51 - Hook finalizado
+2026-02-26 16:15:53 - Hook iniciado (entrada)
+2026-02-26 16:15:53 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/.cursor/hooks/afterFileEdit.sh
+2026-02-26 16:15:53 - Hook finalizado (salida)
+2026-02-26 16:17:32 - Hook iniciado (entrada)
+2026-02-26 16:17:32 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/caso_uso_hook/src/components/Button/Button.css
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/caso_uso_hook/src/components/Button/Button.css con prettier
+2026-02-26 16:17:34 - Hook finalizado (salida)
+2026-02-26 16:25:59 - Hook iniciado (entrada)
+2026-02-26 16:25:59 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/.cursor/hooks/afterFileEdit.sh
+2026-02-26 16:25:59 - Hook finalizado (salida)
+2026-02-26 16:31:08 - Hook iniciado (entrada)
+2026-02-26 16:31:08 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/caso_uso_hook/src/pages/HomePage.jsx
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/caso_uso_hook/src/pages/HomePage.jsx con prettier
+2026-02-26 16:31:09 - Hook finalizado (salida)
+2026-02-26 16:31:16 - Hook iniciado (entrada)
+2026-02-26 16:31:16 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/caso_uso_hook/src/pages/HomePage.jsx
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/caso_uso_hook/src/pages/HomePage.jsx con prettier
+2026-02-26 16:31:17 - Hook finalizado (salida)
+2026-02-26 16:48:31 - Hook iniciado (entrada)
+2026-02-26 16:48:31 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/package.json
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/package.json con prettier
+2026-02-26 16:48:32 - Hook finalizado (salida)
+2026-02-26 16:48:50 - Hook iniciado (entrada)
+2026-02-26 16:48:50 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/index.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/index.js con prettier
+2026-02-26 16:48:51 - Hook finalizado (salida)
+2026-02-26 16:57:17 - Hook iniciado (entrada)
+2026-02-26 16:57:17 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/PLAN.md
+2026-02-26 16:57:17 - Hook finalizado (salida)
+2026-02-26 16:58:34 - Hook iniciado (entrada)
+2026-02-26 16:58:34 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/PLAN.md
+2026-02-26 16:58:34 - Hook finalizado (salida)
+2026-02-26 16:58:41 - Hook iniciado (entrada)
+2026-02-26 16:58:41 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/index.html
+2026-02-26 16:58:41 - Hook finalizado (salida)
+2026-02-26 16:58:45 - Hook iniciado (entrada)
+2026-02-26 16:58:45 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/store.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/store.js con prettier
+2026-02-26 16:58:47 - Hook finalizado (salida)
+2026-02-26 16:58:48 - Hook iniciado (entrada)
+2026-02-26 16:58:48 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js con prettier
+2026-02-26 16:58:50 - Hook finalizado (salida)
+2026-02-26 16:58:54 - Hook iniciado (entrada)
+2026-02-26 16:58:54 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/dragDrop.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/dragDrop.js con prettier
+2026-02-26 16:58:54 - Hook iniciado (entrada)
+2026-02-26 16:58:54 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/app.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/app.js con prettier
+2026-02-26 16:58:55 - Hook finalizado (salida)
+2026-02-26 16:58:56 - Hook finalizado (salida)
+2026-02-26 16:59:05 - Hook iniciado (entrada)
+2026-02-26 16:59:05 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/store.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/store.js con prettier
+2026-02-26 16:59:06 - Hook finalizado (salida)
+2026-02-26 16:59:12 - Hook iniciado (entrada)
+2026-02-26 16:59:12 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/package.json
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/package.json con prettier
+2026-02-26 16:59:13 - Hook finalizado (salida)
+2026-02-26 16:59:18 - Hook iniciado (entrada)
+2026-02-26 16:59:18 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/README.md
+2026-02-26 16:59:18 - Hook finalizado (salida)
+2026-02-26 17:04:32 - Hook iniciado (entrada)
+2026-02-26 17:04:32 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js con prettier
+2026-02-26 17:04:34 - Hook finalizado (salida)
+2026-02-26 17:04:38 - Hook iniciado (entrada)
+2026-02-26 17:04:38 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js con prettier
+2026-02-26 17:04:39 - Hook finalizado (salida)
+2026-02-26 17:06:03 - Hook iniciado (entrada)
+2026-02-26 17:06:03 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js con prettier
+2026-02-26 17:06:05 - Hook finalizado (salida)
+2026-02-26 17:06:10 - Hook iniciado (entrada)
+2026-02-26 17:06:10 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js
+Formateando /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/proyecto_cli_js/src/render.js con prettier
+2026-02-26 17:06:11 - Hook finalizado (salida)
+2026-03-02 16:10:10 - Hook iniciado (entrada)
+2026-03-02 16:10:11 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/validate.py
+2026-03-02 16:10:11 - Hook finalizado (salida)
+2026-03-02 16:12:31 - Hook iniciado (entrada)
+2026-03-02 16:12:31 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:12:31 - Hook finalizado (salida)
+2026-03-02 16:12:32 - Hook iniciado (entrada)
+2026-03-02 16:12:32 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/requirements.txt
+2026-03-02 16:12:32 - Hook finalizado (salida)
+2026-03-02 16:12:53 - Hook iniciado (entrada)
+2026-03-02 16:12:53 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:12:53 - Hook finalizado (salida)
+2026-03-02 16:12:53 - Hook iniciado (entrada)
+2026-03-02 16:12:53 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/requirements.txt
+2026-03-02 16:12:53 - Hook finalizado (salida)
+2026-03-02 16:20:19 - Hook iniciado (entrada)
+2026-03-02 16:20:19 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/validate.py
+2026-03-02 16:20:19 - Hook finalizado (salida)
+2026-03-02 16:20:20 - Hook iniciado (entrada)
+2026-03-02 16:20:20 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:20:20 - Hook finalizado (salida)
+2026-03-02 16:23:08 - Hook iniciado (entrada)
+2026-03-02 16:23:08 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/validate.py
+2026-03-02 16:23:08 - Hook finalizado (salida)
+2026-03-02 16:23:09 - Hook iniciado (entrada)
+2026-03-02 16:23:09 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:09 - Hook finalizado (salida)
+2026-03-02 16:23:10 - Hook iniciado (entrada)
+2026-03-02 16:23:10 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:10 - Hook finalizado (salida)
+2026-03-02 16:23:12 - Hook iniciado (entrada)
+2026-03-02 16:23:12 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:12 - Hook finalizado (salida)
+2026-03-02 16:23:12 - Hook iniciado (entrada)
+2026-03-02 16:23:12 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:12 - Hook finalizado (salida)
+2026-03-02 16:23:13 - Hook iniciado (entrada)
+2026-03-02 16:23:13 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:13 - Hook finalizado (salida)
+2026-03-02 16:23:14 - Hook iniciado (entrada)
+2026-03-02 16:23:14 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:14 - Hook finalizado (salida)
+2026-03-02 16:23:15 - Hook iniciado (entrada)
+2026-03-02 16:23:15 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:15 - Hook finalizado (salida)
+2026-03-02 16:23:17 - Hook iniciado (entrada)
+2026-03-02 16:23:17 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:17 - Hook finalizado (salida)
+2026-03-02 16:23:17 - Hook iniciado (entrada)
+2026-03-02 16:23:17 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:17 - Hook finalizado (salida)
+2026-03-02 16:23:19 - Hook iniciado (entrada)
+2026-03-02 16:23:19 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:19 - Hook finalizado (salida)
+2026-03-02 16:23:20 - Hook iniciado (entrada)
+2026-03-02 16:23:20 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:20 - Hook finalizado (salida)
+2026-03-02 16:23:20 - Hook iniciado (entrada)
+2026-03-02 16:23:20 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:20 - Hook finalizado (salida)
+2026-03-02 16:23:22 - Hook iniciado (entrada)
+2026-03-02 16:23:22 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:22 - Hook finalizado (salida)
+2026-03-02 16:23:23 - Hook iniciado (entrada)
+2026-03-02 16:23:23 - Hook ejecutado para /Volumes/Proyectos/clientes/redes_consultoria/IA_Desarrollo/Curso_IA_dev/casos_de_uso/riesgo_inyeccion_ia/test_validate.py
+2026-03-02 16:23:23 - Hook finalizado (salida)

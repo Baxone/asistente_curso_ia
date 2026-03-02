@@ -1,0 +1,60 @@
+# crediaciales y secretos
+.env
+.env.local
+.env.*.local
+.env.production
+
+# logs
+logs
+*.log
+
+# node_modules
+node_modules
+
+# dist
+dist
+
+# api en .net
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+
+# certificado y api.
+.key
+.pem
+.pfx
+.cer
+.crt
+.p12
+.p11
+.p13
+.p14
+.p15
+.p16
+.p17
+.p18
+id_rsa
+id_rsa.pub
+id_dsa
+id_dsa.pub
+id_ecdsa
+id_ecdsa.pub
+id_ed25519
+id_ed25519.pub
+id_ed448
+id_ed448.pub
+id_ed448.pub
+
+# infraestructura
+.yaml
+.yml
+docker-compose.yml
+
+# BBDD
+.sql
+.db
+.sqlite
+
+# IDE o sistemas operativos
+.cursor
