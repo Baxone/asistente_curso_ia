@@ -1,0 +1,60 @@
+.comment-list {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.comment-list h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.comment-list-items {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.comment {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid #646cff;
+}
+
+.comment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.comment-author {
+  font-weight: 600;
+  color: #333;
+}
+
+.comment-date {
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.comment-content {
+  line-height: 1.5;
+  color: #444;
+}
+
+.comment-content b,
+.comment-content strong {
+  font-weight: 700;
+}
+
+.comment-content i,
+.comment-content em {
+  font-style: italic;
+}
+
+.comment-content u {
+  text-decoration: underline;
+}

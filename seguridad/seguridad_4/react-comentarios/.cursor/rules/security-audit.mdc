@@ -1,0 +1,34 @@
+---
+description: Auditoría de seguridad automática en código generado
+globs: ["**/*.py", "**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"]
+alwaysApply: true
+---
+# Regla de Seguridad Corporativa
+
+Antes de generar cualquier código que involucre:
+- Queries a base de datos
+- Manejo de input de usuario
+- Autenticación o autorización
+- Renderizado de HTML dinámico
+- Llamadas a APIs externas
+
+Debes seguir este protocolo:
+
+1. Genera el código solicitado
+2. Añade un fichero .md con el nombre "REVISIÓN_SEGURIDAD.md" donde indiques:
+   - Vulnerabilidades potenciales del código generado
+   - Mitigaciones aplicadas
+   - Qué validaciones adicionales debe hacer el desarrollador
+
+## Patrones PROHIBIDOS - nunca generes:
+- Concatenación de strings en queries SQL
+- innerHTML o dangerouslySetInnerHTML sin sanitización
+- eval() o Function() con input del usuario
+- Credenciales o secrets hardcodeados aunque sean "de ejemplo"
+- Deserialización de datos externos sin validación
+
+## Estándares obligatorios:
+- Queries: siempre parametrizadas o con ORM
+- Passwords: siempre hashed con bcrypt o argon2, nunca MD5/SHA1
+- Tokens JWT: validar algoritmo explícitamente, rechazar 'none'
+- CORS: nunca wildcard '*' en producción
