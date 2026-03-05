@@ -1,0 +1,24 @@
+# Flask web framework
+flask==3.0.0
+
+# Flask RESTX for APIs
+flask-restx==1.1.0
+
+# Database ORM
+sqlalchemy==2.0.23
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Password hashing
+bcrypt==4.1.2
+
+# Jinja2 templates
+jinja2==3.1.2
+
+# Flask migrations
+flask-migrate==4.0.5
+
+# Alembic for database migrations
+alembic==1.13.1
+
